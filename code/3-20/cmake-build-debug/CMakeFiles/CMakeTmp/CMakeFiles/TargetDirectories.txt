@@ -1,3 +1,0 @@
-F:/Github/c++study/code/3-20/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_6698a.dir
-F:/Github/c++study/code/3-20/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-F:/Github/c++study/code/3-20/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
