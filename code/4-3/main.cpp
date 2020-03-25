@@ -15,10 +15,19 @@ bool judge_prime_number(int number)
     }
     return true;
 }
+//方法二
+bool judge_prime_number1(int number)
+{
+    for (int i = sqrt(number); i > 1 ; i--) {
+        if (number%i==0)return false;
+    }
+    return true;
+}
+
 int main() {
     int number=0;
     cin>>number;
-    if(judge_prime_number(number))
+    if(judge_prime_number1(number))
         cout<< "number是质数"<<endl;
     else
         cout<< "number不是质数"<<endl;
