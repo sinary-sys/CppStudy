@@ -6,4 +6,4 @@
 ### [3-11](https://github.com/sinary-sys/c-study/tree/master/code/3-11)
 ### [3-15](https://github.com/sinary-sys/c-study/tree/master/code/3-15)
 ### [3-18](https://github.com/sinary-sys/c-study/tree/master/code/3-18)
-### [4-3](https://github.com/sinary-sys/c-study/tree/master/code/4-3)
+### [4-3 质数判断](https://github.com/sinary-sys/c-study/tree/master/code/4-3)
