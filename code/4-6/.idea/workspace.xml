@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="3_20" targetName="3_20" />
+      <config projectName="4_6" targetName="4_6" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7733e1ce-da0e-46e6-b12e-77fac5ba2c44" name="默认更改列表" comment="" />
+    <list default="true" id="da0bd787-e9e0-4294-aad7-e40773298e8c" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1ZOx25Y2jJRGmOgaq4zawjc9eQN" />
+  <component name="ProjectId" id="1ZbsaiIHhBUN4Z3FzdQL9zYXgs8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +43,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="3_20" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="3_20" TARGET_NAME="3_20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="3_20" RUN_TARGET_NAME="3_20">
+    <configuration name="4_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_6" TARGET_NAME="4_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_6" RUN_TARGET_NAME="4_6">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -55,15 +54,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7733e1ce-da0e-46e6-b12e-77fac5ba2c44" name="默认更改列表" comment="" />
-      <created>1584723731355</created>
+      <changelist id="da0bd787-e9e0-4294-aad7-e40773298e8c" name="默认更改列表" comment="" />
+      <created>1585119192163</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584723731355</updated>
-      <workItem from="1584723735679" duration="4000" />
-      <workItem from="1584895748817" duration="652000" />
-      <workItem from="1584896478763" duration="105000" />
-      <workItem from="1585119164034" duration="26000" />
+      <updated>1585119192163</updated>
+      <workItem from="1585119194742" duration="647000" />
     </task>
     <servers />
   </component>
@@ -75,9 +71,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
