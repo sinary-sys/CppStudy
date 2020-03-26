@@ -5,12 +5,12 @@ using namespace std;
 
 double func(double x) //函数
 {
-    return 1 * x * x * x - 2 * x * x + 3 * x - 4;
+    return 1 * x * x * x + 2 * x * x + 3 * x - 4;
 }
 
 double func1(double x) //导函数
 {
-    return 3 * 1 * x * x - 2 * 2 * x + 3;
+    return 3 * 1 * x * x + 2 * 2 * x + 3;
 }
 
 int Newton(double &x, double precision, int maxcyc) //迭代次数
