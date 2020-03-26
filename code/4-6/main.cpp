@@ -1,16 +1,16 @@
 #include <iostream>
 
 using namespace std;
-int a, b, c, d;
+
 
 double func(double x) //函数
 {
-    return a * x * x * x - b * x * x + c * x - d;
+    return 1 * x * x * x - 2 * x * x + 3 * x - 4;
 }
 
 double func1(double x) //导函数
 {
-    return 3 * a * x * x - 2 * b * x + c;
+    return 3 * 1 * x * x - 2 * 2 * x + 3;
 }
 
 int Newton(double &x, double precision, int maxcyc) //迭代次数
@@ -43,9 +43,8 @@ int Newton(double &x, double precision, int maxcyc) //迭代次数
 int main() {
     double x, precision;
     int maxcyc = 0;
-    int a = 0, b = 0, c = 0, d = 0;
-    cout << "输入方程的系数abcd" << endl;
-    cin >>a >>b >> c >> d;
+
+
     cout << "输入初始值x0" << endl;
     cin >> x;
     cout << "输入最大迭代次数" << endl;
