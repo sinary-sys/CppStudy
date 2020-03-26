@@ -21,3 +21,5 @@
 
 所以 x1= x0- f(x0)/ f ' (x0)。
 ![image](https://raw.githubusercontent.com/sinary-sys/CppStudy/master/pictures/201731991723852.png)
+## 结果验证
+![image](https://raw.githubusercontent.com/sinary-sys/CppStudy/master/pictures/2020-03-26_172739.jpg)
