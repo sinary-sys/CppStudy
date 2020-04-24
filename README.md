@@ -9,4 +9,4 @@
 ### [4-3 质数判断](https://github.com/sinary-sys/c-study/tree/master/code/4-3)
 ### [4-6 牛顿迭代法](https://github.com/sinary-sys/CppStudy/tree/master/code/4-6)
 
-### [6-13 矩形法求积分 sin（x）cos(x) exp(x)](https://github.com/sinary-sys/CppStudy/blob/master/code/6-13/main.cpp)
+### [6-13 矩形法求积分 sin（x）cos(x) exp(x)](https://github.com/sinary-sys/CppStudy/blob/master/code/6-13)
