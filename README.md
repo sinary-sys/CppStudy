@@ -10,3 +10,5 @@
 ### [4-6 牛顿迭代法](https://github.com/sinary-sys/CppStudy/tree/master/code/4-6)
 
 ### [6-13 矩形法求积分 sin（x）cos(x) exp(x)](https://github.com/sinary-sys/CppStudy/blob/master/code/6-13)
+
+### [6-17字符串比较](https://github.com/sinary-sys/CppStudy/tree/master/code/6-17)

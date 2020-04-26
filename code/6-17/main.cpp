@@ -3,12 +3,12 @@
 using namespace std;
 
 int strcmp(char *p1, char *p2) {
-    int index=0;
+    int index=0;//记录相同字符的个数
     for (int i = 0; i <20 ; i++) {
         if(*(p1+i)==*(p2+i)){
             index++;
         } else{
-            return *(p1+i) -*(p2+i);
+            return *(p1+i) -*(p2+i);//如果遇到第一个不同就返回
         }
     }
     if(index==20)return 0;
