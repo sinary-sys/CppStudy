@@ -2,7 +2,7 @@
 
 ### 代码测试结果
 
-![image](https://photos.app.goo.gl/X4JhtpwM3j2cLF5bA)
+![image](https://github.com/sinary-sys/CppStudy/blob/master/pictures/clion64_PedE9lp33t.png)
 
-![image](https://photos.google.com/lr/album/AD9yjfOe0sAG90G36YL5dHf2XHkC0OR6uUXzBU2-MeEZ3Hq802t_tkNX5VJYAxUH6IIz7aE9gstZ/photo/AD9yjfMGR0xI47CdWTc6EqhEsJZuXq1RcsL3Na1cqGy_o5TMYutdPiHqZAegNfaNEeWgu5iiZ0GE56QYgWzZc-wFQVYkQO0CBg)
+![image](https://github.com/sinary-sys/CppStudy/blob/master/pictures/clion64_v5U5Wp7wvP.png)
 
