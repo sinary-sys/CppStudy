@@ -38,7 +38,20 @@
 ### C程序实现
 
 ```
-link linklist_sort(link h){    link out, t, max;    out = NULL, t = NULL, max = NULL;    while(h->next != NULL)    {        max = findMax(h);        t = max->next;//最大元素节点        max->next = max->next->next;//删除max节点        t->next = out;//将t插入到out前        out = t;//返回out    }    h->next = out;    return h;}
+link linklist_sort(link h){    
+	link out, t, max;    
+	out = NULL, t = NULL, max = NULL;    
+	while(h->next != NULL)   
+	{       
+		max = findMax(h);        
+		t = max->next;//最大元素节点       
+		max->next = max->next->next;//删除max节点        
+		t->next = out;//将t插入到out前        
+		out = t;//返回out    
+	}   
+	h->next = out;    
+	return h;
+}
 ```
 
 在一些表的处理中，我们不需要详细实现排序过程，只需要像插入排序依次向表中插入新元素，使表有序。
@@ -59,7 +72,21 @@ link linklist_sort(link h){    link out, t, max;    out = NULL, t = NULL, max = 
 ### C程序实现
 
 ```
-void keyword_sort(Item a[], int l, int r){    Item b[r-l+1];    int cnt[M];//M为关键字的个数    for(int j = 0; j < M; j++)//初始化个数全0        cnt[j] = 0;    for(int i = l; i <= r; i++) //统计不同值的关键字个数，        cnt[a[i]+1]++;    for(int j = 1; j < M; j++)//统计比其他关键字小的关键字的个数，cnt[j]存储比j小的关键字的个数        cnt[j] = cnt[j] + cnt[j-1];    for(int i = l; i <= r; i++) //按关键字个数索引放到辅助数组b中        b[cnt[ a[i] ]++] = a[i];    for(int i = l; i <= r; i++)        a[i] = b[i-l]; }
+void keyword_sort(Item a[], int l, int r){    
+	Item b[r-l+1];    
+	int cnt[M];//M为关键字的个数    
+	for(int j = 0; j < M; j++)//初始化个数全0        
+		cnt[j] = 0;    
+	for(int i = l; i <= r; i++) //统计不同值的关键字个数，        
+		cnt[a[i]+1]++;    
+	for(int j = 1; j < M; j++)//统计比其他关键字小的关键字的个数，
+		cnt[j]存储比j小的关键字的个数        
+		cnt[j] = cnt[j] + cnt[j-1];    
+	for(int i = l; i <= r; i++) //按关键字个数索引放到辅助数组b中        
+		b[cnt[ a[i] ]++] = a[i];    
+	for(int i = l; i <= r; i++)       
+	a[i] = b[i-l];
+}
 ```
 
 如果要排序的文件很大，使用辅助数组b会导致内存分配问题，可以通过使用原位排序避免使用额外数组完成。
