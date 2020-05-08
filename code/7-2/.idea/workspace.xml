@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="7_0" targetName="7_0" />
+      <config projectName="7_2" targetName="7_2" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e086c95-64fe-40b0-803b-c7f0a0d4eefd" name="默认更改列表" comment="" />
+    <list default="true" id="d2f492d6-6ad1-4316-a301-52616e7226d5" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1bP4EybZcWQvLCIm9ScFas62uqN" />
+  <component name="ProjectId" id="1bcd6iuFpro1b0i5b4V1TwKiKxE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,7 +43,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="7_0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="7_0" TARGET_NAME="7_0" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="7_0" RUN_TARGET_NAME="7_0">
+    <configuration name="7_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="7_2" TARGET_NAME="7_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="7_2" RUN_TARGET_NAME="7_2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -54,14 +54,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8e086c95-64fe-40b0-803b-c7f0a0d4eefd" name="默认更改列表" comment="" />
-      <created>1588520286930</created>
+      <changelist id="d2f492d6-6ad1-4316-a301-52616e7226d5" name="默认更改列表" comment="" />
+      <created>1588935142959</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588520286930</updated>
-      <workItem from="1588520288238" duration="3162000" />
-      <workItem from="1588863559569" duration="601000" />
-      <workItem from="1588934089904" duration="953000" />
+      <updated>1588935142959</updated>
+      <workItem from="1588935144313" duration="1463000" />
     </task>
     <servers />
   </component>
@@ -73,9 +71,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
