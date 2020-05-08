@@ -17,6 +17,6 @@
 
 ### [6-17字符串比较](https://github.com/sinary-sys/CppStudy/tree/master/code/6-17)
 
-### [7-0  五个学生的成绩输入和打印，结构体实现]（https://github.com/sinary-sys/CppStudy/tree/master/code/7-0）
+### [7-0  五个学生的成绩输入和打印，结构体实现](https://github.com/sinary-sys/CppStudy/tree/master/code/7-0)
 
  
