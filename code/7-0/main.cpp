@@ -29,12 +29,12 @@ public:
         cout <<setw(8)<< i<<setw(8)<<num<<setw(8)<<name
              <<setw(8)<<score[0]<<setw(8)<<score[1]<<setw(8)<<score[2]<<endl;
     }
-} stu[3];
+} stu[5];
 
 int main() {
     string temp;
     int a[3];
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < 5; i++) {
         cout << "please input student " << i + 1 << " of num" << endl;
         cin >> temp;
         stu[i].set_num(temp);
@@ -47,7 +47,7 @@ int main() {
         }
         stu[i].set_score(a);
     }
-    for (int j = 0; j < 3; j++) {
+    for (int j = 0; j < 5; j++) {
         stu[j].print_stu(j+1);
     }
     return 0;
