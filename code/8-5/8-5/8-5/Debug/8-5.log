@@ -1,0 +1,4 @@
+﻿  arraymx.cpp
+f:\github\c++study\code\8-5\8-5\8-5\arraymx.cpp(8): warning C4101: “i”: 未引用的局部变量
+f:\github\c++study\code\8-5\8-5\8-5\arraymx.cpp(16): warning C4101: “i”: 未引用的局部变量
+  8-5.vcxproj -> F:\Github\c++study\code\8-5\8-5\Debug\8-5.exe
