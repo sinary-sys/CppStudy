@@ -25,3 +25,6 @@
 
 ### [8-1-2 键盘输入设置时分秒的两种实现，2采用函数方法](https://github.com/sinary-sys/CppStudy/tree/master/code/8-1-2)
 
+### [8-5 类的分文件编写](https://github.com/sinary-sys/CppStudy/tree/master/code/8-5/8-5)
+
+### [8-6 构造长方体类 计算长方体体积](https://github.com/sinary-sys/CppStudy/tree/master/code/8-6)
