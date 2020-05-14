@@ -20,3 +20,8 @@
 ### [7-0  五个学生的成绩输入和打印，结构体实现](https://github.com/sinary-sys/CppStudy/tree/master/code/7-0)
 
 ### [7-2 编写days函数 计算该日是该年的第几天](https://github.com/sinary-sys/CppStudy/tree/master/code/7-2)
+
+### [8-1-1 键盘输入设置时分秒的两种实现，1采用类的方法](https://github.com/sinary-sys/CppStudy/tree/master/code/8-1-1)
+
+### [8-1-2 键盘输入设置时分秒的两种实现，2采用函数方法](https://github.com/sinary-sys/CppStudy/tree/master/code/8-1-2)
+
