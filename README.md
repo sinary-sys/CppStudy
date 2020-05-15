@@ -9,6 +9,8 @@
 ### [4-3 质数判断](https://github.com/sinary-sys/c-study/tree/master/code/4-3)
 ### [4-6 牛顿迭代法](https://github.com/sinary-sys/CppStudy/tree/master/code/4-6)
 
+### [6-3 输入10个数 利用指针 把最小的换到第一个 最大的换到最后一个](https://github.com/sinary-sys/CppStudy/tree/master/code/6-3)
+
 ### [6-9 3*3 矩阵转置](https://github.com/sinary-sys/CppStudy/tree/master/code/6-9)
 
 ### [6-13 矩形法求积分 sin（x）cos(x) exp(x)](https://github.com/sinary-sys/CppStudy/blob/master/code/6-13)
