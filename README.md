@@ -31,3 +31,5 @@
 
 ### [8-6 构造长方体类 计算长方体体积](https://github.com/sinary-sys/CppStudy/tree/master/code/8-6)
 
+### [课堂练习14-1 修改指针对象的一些错误以及const函数重载](https://github.com/sinary-sys/CppStudy/tree/master/code/test-14-1)
+
