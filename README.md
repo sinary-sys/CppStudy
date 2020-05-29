@@ -33,3 +33,5 @@
 
 ### [课堂练习14-1 修改指针对象的一些错误以及const函数重载](https://github.com/sinary-sys/CppStudy/tree/master/code/test-14-1)
 
+### [课堂练习14-2 修改对象const成员数据初始化错误](https://github.com/sinary-sys/CppStudy/tree/master/code/test-14-2)
+
