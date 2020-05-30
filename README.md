@@ -35,5 +35,5 @@
 
 ### [课堂练习14-2 修改对象const成员数据初始化错误](https://github.com/sinary-sys/CppStudy/tree/master/code/test-14-2)
 
-###  [9-0 类成员初始化赋值和构造函数赋值 初始化为构造中的值](https://github.com/sinary-sys/CppStudy/tree/master/code/8-6)
+###  [9-0 类成员初始化赋值和构造函数赋值 初始化为构造中的值](https://github.com/sinary-sys/CppStudy/tree/master/code/9-0)
 
