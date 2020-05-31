@@ -37,3 +37,4 @@
 
 ###  [9-0 类成员初始化赋值和构造函数赋值 初始化为构造中的值](https://github.com/sinary-sys/CppStudy/tree/master/code/9-0)
 
+### [课堂练习14-3 例9-11修改程序 将静态成员函数改为非静态](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/l-9-11)
