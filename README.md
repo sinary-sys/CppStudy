@@ -37,7 +37,9 @@
 
 ###  [9-0 类成员初始化赋值和构造函数赋值 初始化为构造中的值](https://github.com/sinary-sys/CppStudy/tree/master/code/9-0)
 
-###  [9-2 构造函数重载的分析]()
+###  [9-2 构造函数重载的分析](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/9-2%E2%80%949-3)
+
+### [9-3 带默认值得构造函数与重载](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/9-2%E2%80%949-3)
 
 ### [课堂练习14-3 例9-11修改程序 将静态成员函数改为非静态](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/l-9-11)
 
