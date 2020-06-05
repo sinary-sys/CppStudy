@@ -41,6 +41,10 @@
 
 ### [9-3 带默认值得构造函数与重载](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/9-2%E2%80%949-3)
 
+### [9-5 学生类 5个学生 学生数组](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/9-2%E2%80%949-3)
+
+### [9-8 修改学生数组 采用引用方式](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/9-2%E2%80%949-3)
+
 ### [课堂练习14-3 例9-11修改程序 将静态成员函数改为非静态](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/l-9-11)
 
 ### [课堂练习14-4 例9-13修改程序 将类的友元函数对换](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/l-9-13-test14-4)
