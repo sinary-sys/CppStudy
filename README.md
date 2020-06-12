@@ -52,3 +52,5 @@
 ### [10-1 定义复数类 使用非成员非友元重载“+”](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/10-1)
 
 ### [课堂练习15-1 例10-4将双目运算符><==的友元重载改为成员函数重载](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/test-15-1-9-4)
+
+### [课堂练习15-2 例10-6修改++运算符为友元重载 修改参数为形参传递](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/test-15-2-10-6)
