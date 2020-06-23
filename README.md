@@ -56,3 +56,6 @@
 ### [课堂练习15-2 例10-6修改++运算符为友元重载 修改参数为形参传递](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/text-15-2-10-6)
 
 ### [11-4  将例题11.3修改为公用继承方式](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/11-4)
+
+### [11-9  分别定义Teacher（教师）类和Cadre（干部）类，采用多重继承方式由这两个类派生出新类Teacher_Cadre（教师兼干部）](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/11-9)
+
