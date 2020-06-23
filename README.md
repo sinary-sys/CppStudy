@@ -59,3 +59,5 @@
 
 ### [11-9  分别定义Teacher（教师）类和Cadre（干部）类，采用多重继承方式由这两个类派生出新类Teacher_Cadre（教师兼干部）](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/11-9)
 
+### [12-1  在例12.1程序基础上作一些修改。定义Point类，由Point类派生出Circle类，再由Circle类派生出Cylinder类。将类的定义部分分别作为3个头文件，对它们的成员函数的声明部分分别作为3个源文件，在主函数中用#include命令把它们包含进来，形成一个完整的程序，并上机运行。 ](https://github.com/sinary-sys/CppStudy/tree/master/code/program/code/12-1)
+
